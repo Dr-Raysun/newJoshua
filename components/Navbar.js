@@ -55,7 +55,7 @@ const Navbar = () => {
               <Dropdown>
                 <button>Administration</button>
                 <DropdownContent>
-                  <Link href="bbiodata">
+                  <Link href="biodata">
                     <a>Adding Siwes Student</a>
                   </Link>
                   <Link href="/viewBiodata">
